@@ -1,168 +1,138 @@
-# 👋 Hola, soy Yennifer Padilla
+# Yennifer Padilla
 
-### 💻 Full Stack Developer Junior | 📊 Data Analyst | 🤖 AI Enthusiast
-
-Soy Tecnóloga en formación en **Análisis y Desarrollo de Software (ADSO)** del SENA, apasionada por desarrollar aplicaciones web, analizar datos y crear soluciones apoyadas en Inteligencia Artificial.
-
-Actualmente estoy fortaleciendo mis habilidades en **Desarrollo Full Stack**, **Análisis de Datos** e **IA**, desarrollando proyectos que integran tecnologías modernas y buenas prácticas de ingeniería de software.
+### Desarrolladora Full Stack Junior | Analista de Datos | Entusiasta de Inteligencia Artificial
 
 ---
 
-# 🚀 Sobre mí
+## Sobre mí
 
-- 💻 Desarrollo aplicaciones web Full Stack.
-- 📊 Construyo dashboards e interpreto datos con Power BI.
-- 🐍 Utilizo Python para automatización y análisis de datos.
-- 🌱 Aprendo constantemente nuevas tecnologías.
-- 🤝 Disfruto trabajar en equipo y resolver problemas.
-- 🎯 Busco mi primera oportunidad como Desarrolladora Full Stack Junior o Analista de Datos.
+Soy Tecnóloga en formación en **Análisis y Desarrollo de Software (ADSO)**, apasionada por crear soluciones tecnológicas que combinen desarrollo web, análisis de datos e inteligencia artificial.
 
----
+Actualmente desarrollo proyectos Full Stack utilizando **React, Node.js, Express, MySQL y Python**, aplicando buenas prácticas de programación, diseño de bases de datos y construcción de APIs REST.
 
-# 🛠 Stack Tecnológico
-
-## Frontend
-
-![HTML5](https://skillicons.dev/icons?i=html)
-
-![CSS3](https://skillicons.dev/icons?i=css)
-
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-
-![TypeScript](https://skillicons.dev/icons?i=typescript)
-
-![React](https://skillicons.dev/icons?i=react)
+Disfruto aprender continuamente, enfrentar nuevos retos y transformar ideas en soluciones funcionales. Mi objetivo es iniciar mi carrera profesional en el desarrollo de software, aportando compromiso, capacidad de aprendizaje y una sólida base técnica construida a través de proyectos reales.
 
 ---
 
-## Backend
+## Tecnologías
 
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
+### Desarrollo Frontend
 
-![Express](https://skillicons.dev/icons?i=express)
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React
 
-![PHP](https://skillicons.dev/icons?i=php)
+### Desarrollo Backend
 
----
+- Node.js
+- Express
+- PHP
 
-## Bases de Datos
+### Bases de Datos
 
-![MySQL](https://skillicons.dev/icons?i=mysql)
+- MySQL
 
----
-
-## Ciencia de Datos
+### Análisis de Datos
 
 - Python
 - Pandas
 - NumPy
-- Google Colab
 - Power BI
 
----
+### Herramientas
 
-## Herramientas
-
-![Git](https://skillicons.dev/icons?i=git)
-
-![GitHub](https://skillicons.dev/icons?i=github)
-
-![VSCode](https://skillicons.dev/icons?i=vscode)
-
-![Postman](https://skillicons.dev/icons?i=postman)
+- Git
+- GitHub
+- Postman
+- Visual Studio Code
 
 ---
 
-# 🌟 Proyectos Destacados
+## Proyectos Destacados
 
-## 👗 ModaTrend
+### ModaTrend
 
-Sistema Full Stack para la administración de inventario y ventas.
+Aplicación Full Stack para la administración de inventario y ventas, desarrollada bajo una arquitectura cliente-servidor.
 
 **Tecnologías**
 
-React • Node.js • Express • MySQL
+React · Node.js · Express · MySQL
 
 ---
 
-## 🛒 Ecommerce Platform
+### Ecommerce Platform
 
-Aplicación web para la gestión de una tienda virtual.
+Aplicación web para la gestión de una tienda virtual, con funcionalidades para la administración de productos y procesos comerciales.
 
 **Tecnologías**
 
-HTML • CSS • JavaScript • PHP • MySQL
+HTML · CSS · JavaScript · PHP · MySQL
 
 ---
 
-## 🌱 Ecoly API
+### Ecoly API
 
-Backend REST desarrollado para gestionar procesos de negocio.
+API REST desarrollada para gestionar procesos de negocio, implementando una arquitectura escalable basada en Express y MySQL.
 
 **Tecnologías**
 
-Node.js • Express • MySQL
+Node.js · Express · MySQL
 
 ---
 
-## 📊 Sales Dashboard
+### Sales Dashboard
 
-Dashboard interactivo para análisis de datos empresariales.
+Dashboard interactivo para el análisis de indicadores comerciales y visualización de datos.
 
 **Tecnologías**
 
-Power BI • Excel
+Power BI · Excel
 
 ---
 
-# 📚 Actualmente aprendiendo
+## Actualmente aprendiendo
 
-- 🤖 Inteligencia Artificial
-- 🐍 Python para Ciencia de Datos
-- ☁️ Cloud Computing
-- 🐳 Docker
-- ⚛️ React Avanzado
+- Inteligencia Artificial aplicada al desarrollo de software
+- Ciencia de Datos con Python
+- Docker
+- Cloud Computing
+- Arquitectura de Software
 
 ---
 
-# 📈 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yeni-hub&show_icons=true&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yeni-hub&show_icons=true&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeni-hub&layout=compact&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeni-hub&layout=compact&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🎯 Objetivos 2026
+## Objetivos Profesionales
 
-✔ Conseguir mi primera oportunidad como Desarrolladora Full Stack Junior.
-
-✔ Participar en proyectos reales de desarrollo de software.
-
-✔ Profundizar en Inteligencia Artificial y Ciencia de Datos.
-
-✔ Contribuir a proyectos Open Source.
+- Obtener mi primera oportunidad como Desarrolladora Full Stack Junior.
+- Participar en proyectos reales de desarrollo de software.
+- Especializarme en Inteligencia Artificial y Análisis de Datos.
+- Contribuir a proyectos Open Source y fortalecer continuamente mis habilidades técnicas.
 
 ---
 
-# 📫 Contacto
+## Contacto
 
-💼 LinkedIn
+**LinkedIn**
 
-https://www.linkedin.com/in/yennifer-padilla-hern%C3%A1ndez-00b578413/
+https://www.linkedin.com/in/yennifer-padilla-hernández-00b578413/
 
-📧 Email
-
-Yenniferh130@gmail.com
-
-💻 GitHub
+**GitHub**
 
 https://github.com/Yeni-hub
 
----
+**Correo**
 
-⭐ Gracias por visitar mi perfil. Siempre estoy abierta a aprender, colaborar y construir soluciones que generen impacto.
+yenniferh130@gmail.com
