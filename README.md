@@ -9,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yennifer-padilla-hern%C3%A1ndez-00b578413/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Yeni-hub)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yenniferh130@gmail.com)
-[![Portafolio](https://img.shields.io/badge/Portafolio-Proximamente-6A0DAD?style=flat)]()
 
 </div>
 
