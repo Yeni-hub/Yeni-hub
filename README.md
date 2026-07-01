@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yennifer-padilla-hern%C3%A1ndez-00b578413/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Yeni-hub)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yenniferh130@gmail.com)
+![](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)
 
 </div>
 
@@ -85,7 +85,7 @@ Dashboard interactivo para análisis de indicadores comerciales.
 |-------|--------|
 | **LinkedIn** | [linkedin.com/in/yennifer-padilla-hernandez](https://www.linkedin.com/in/yennifer-padilla-hern%C3%A1ndez-00b578413/) |
 | **GitHub** | [github.com/Yeni-hub](https://github.com/Yeni-hub) |
-| **Email** | [yenniferh130@gmail.com](mailto:yenniferh130@gmail.com) |
+| **Email** | yenniferh130@gmail.com |
 
 ---
 
